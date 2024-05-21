@@ -19,7 +19,6 @@ zero1vincent@gmail.com
     - Relevant Coursework: Intermediate and Introductory Micro/Macro Economics, Financial Economics, Linear Algebra, Calculus, Business Data Analytics, Decision-making with Analytics, Probability
     - Honors: Dean’s Honor List
 
-
 #### Experience
 - China CITI Bank, Chengdu, China
   - Customer Manager Assistant
