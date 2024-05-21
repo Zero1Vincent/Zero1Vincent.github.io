@@ -1,1 +1,1 @@
-Repo for Zhuoxin Li's personal website. https://github.com/Zero1Vincent/Zero1Vincent.github.io
+Repo for Zhuoxin Li's personal website. https://Zero1Vincent.github.io
